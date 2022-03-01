@@ -21,7 +21,7 @@ In order to use it in your Host system or in your DAW, consult their indications
 
 ## Interface
 
-![alt text](GUI.png)
+![alt text](img/GUI.PNG)
 
 * **Input Knob:** Controls the level Input.
 
